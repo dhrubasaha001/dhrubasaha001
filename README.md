@@ -1,5 +1,5 @@
 ## Hi there 👋
-#HI-am-Dhruba-Saha
+# I-am-Dhruba-Saha
 # 💫 About Me:
 💻 Developer & Innovator<br><br>🌱 Continuously learning and exploring new technologies<br><br>🚀 Turning ideas into reality through code<br><br>🧠 Balancing knowledge with humility <br><br>🌐 Active GDG (Google Developer Groups) Member
 
