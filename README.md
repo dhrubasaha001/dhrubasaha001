@@ -92,11 +92,10 @@
 ## 💼 Experience
 
 ### 🏢 Python Technology Intern – Deloitte
-...
 
 ### 🏢 AI & ML Intern – Edunet Foundation (AICTE x IBM) 
 
-...
+---
 
 ## 📊 GitHub Stats
 
