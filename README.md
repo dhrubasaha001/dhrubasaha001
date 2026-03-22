@@ -23,17 +23,17 @@ Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (
   [Repo] | [https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER]
   
 - **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, precaution recommendations
-
   [Repo] | [https://github.com/dhrubasaha001/Med-Assist-AI-Backend]
+  
 - **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)
+  [Repo] | [https://github.com/dhrubasaha001/Health-Shield-AI]
   
-  [Repo] | [https://github.com/dhrubasaha001/Health-Shield-AI]  
 - **Sentinel AI** — AI-powered phishing/URL safety detector
-
-  [Repo] | [https://github.com/dhrubasaha001/Sentinel-AI] 
-- **LLM Playground** — Tokenization, fine-tuning, text generation, and prompt experiments
+  [Repo] | [https://github.com/dhrubasaha001/Sentinel-AI]
   
-  [Repo] | [https://github.com/dhrubasaha001/LLM-Generation-Playground] 
+- **LLM Playground** — Tokenization, fine-tuning, text generation, and prompt experiments
+  [Repo] | [https://github.com/dhrubasaha001/LLM-Generation-Playground]
+  
 - Built **10+ deployed apps** (Streamlit, Vercel, Hugging Face Spaces, FastAPI/Flask)
 
 More on GitHub → Explore pinned repos!
