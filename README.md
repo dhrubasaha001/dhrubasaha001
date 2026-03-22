@@ -19,19 +19,19 @@ Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (
   [Repo] | [https://github.com/dhrubasaha001/PDG_RAG]
   
 - **CareerBot AI Pro (Portfolio & Resume Builder)** — A high-performance full-stack system using Python Flask and Groq Llama-3 70B. Generates ATS-optimized
-  resumes in < 1.5s using the STAR method. Features Exponential Backoff logic for API resilience and real-time Markdown-to-PDF export and InBuilt ATS Checker.
+  resumes in < 1.5s using the STAR method. Features Exponential Backoff logic for API resilience and real-time Markdown-to-PDF export and InBuilt ATS Checker.<br>
   [Repo] | [https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER]
   
-- **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, precaution recommendations
+- **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, precaution recommendations <br>
   [Repo] | [https://github.com/dhrubasaha001/Med-Assist-AI-Backend]
   
-- **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)
+- **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)<br>
   [Repo] | [https://github.com/dhrubasaha001/Health-Shield-AI]
   
-- **Sentinel AI** — AI-powered phishing/URL safety detector
+- **Sentinel AI** — AI-powered phishing/URL safety detector<br>
   [Repo] | [https://github.com/dhrubasaha001/Sentinel-AI]
   
-- **LLM Playground** — Tokenization, fine-tuning, text generation, and prompt experiments
+- **LLM Playground** — Tokenization, fine-tuning, text generation, and prompt experiments<br>
   [Repo] | [https://github.com/dhrubasaha001/LLM-Generation-Playground]
   
 - Built **10+ deployed apps** (Streamlit, Vercel, Hugging Face Spaces, FastAPI/Flask)
