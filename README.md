@@ -29,26 +29,60 @@ More on GitHub → Explore pinned repos!
 ---
 
 ## 🛠️ Tech Stack
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-Familiar: C, C++, Java, JavaScript, Dart
 
-### AI / ML / LLM
+### 💻 Main Programming Language (AI and ML Focused)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Familiar Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+### 🤖 AI / ML / LLM
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)  
-Scikit-Learn, NumPy, Pandas, Transformers, LangChain/LlamaIndex (RAG), Prompt Engineering
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Backend & APIs
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%2300C7B7.svg?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%230077B5.svg?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-JWT, REST APIs
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Vector DBs & Storage
-FAISS, ChromaDB, MySQL
+---
 
-### Deployment & Tools
-Streamlit, Vercel, Netlify, AWS, Google Cloud, Git, Docker (exploring)
+### 🗄️ Vector DBs & Storage
+![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF4B4B.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🚀 Deployment & Tools
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
