@@ -1,114 +1,87 @@
 # 👋 Hi, I'm Dhruba Saha
-
-💻 AI/ML Engineer | LLM & System Design Enthusiast
-
-🚀 Building real-world AI systems with LLMs, RAG, and scalable backend architectures
-
-⚙️ Interested in designing scalable AI systems, APIs, and end-to-end ML pipelines
+**AI/ML Engineer | LLM & RAG Specialist | 2nd-Year CS Student**  
+Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and scalable backends. Passionate about transformers, fine-tuning, agents, and deploying intelligent applications that solve real problems.
 
 ---
 
 ## 💫 About Me
-
-🌱 Exploring AI, RAG systems, and real-world problem solving  
-🚀 Building intelligent applications that scale  
-🧠 Focused on growth, clarity, and consistency  
-🚀 Started with multi-domain development → now specializing in AI/ML and LLM-based systems  
-🎯 Currently focused on LLM/RAG systems and open to AI/ML internship opportunities  
+- 🌱 Deep into **LLMs, RAG pipelines, prompt engineering**, and scalable AI architectures
+- 🚀 Shipped **20+ projects** (10+ deployed) as a 2nd-year student
+- 🏆 20+ hackathons | 3× finalist (incl. international) | 1 win
+- 📈 Kaggle: ~200 avg rank across competitions
+- 🏢 3 internships: Deloitte, IBM-backed, and now Prompt Engineering (remote)
+- 🎯 Open to **remote AI/ML/LLM internships & entry-level roles** (international welcome!)
 
 ---
 
-- 📄 **PDF RAG Chatbot** – Retrieval-Augmented Generation system using vector databases for document Q&A  
-- 🧠 **LLM Playground** – Demonstrates tokenization, training & text generation pipeline  
-- 📊 **HealthShield AI** – Supervised ML system for disease prediction
-- 🏥 **MedAssist AI** – AI-powered health assistant with symptom analysis, precaution recommendations, image input support, and voice interaction 
-- 🔐 **Sentinel AI** – AI-based phishing & URL safety detection system  
+## 🔥 Featured Projects
+- **PDF RAG Chatbot** — Advanced RAG system with vector DBs (Chroma/FAISS), embeddings, hallucination reduction, and FastAPI backend for accurate document Q&A  
+  [Repo] 
+- **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, precaution recommendations  
+  [Repo] 
+- **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)  
+- **Sentinel AI** — AI-powered phishing/URL safety detector  
+- **LLM Playground** — Tokenization, fine-tuning, text generation, and prompt experiments  
+- Built **10+ deployed apps** (Streamlit, Vercel, Hugging Face Spaces, FastAPI/Flask)
 
-👉 Built **10+ deployed projects** across multiple domains in first year
+More on GitHub → Explore pinned repos!
 
 ---
 
 ## 🛠️ Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+Familiar: C, C++, Java, JavaScript, Dart
 
-### 💻 Languages  
-
-**Primary (AI/ML Focus)**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Familiar With**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
----
-
-### 🤖 AI / ML  
+### AI / ML / LLM
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)  
+Scikit-Learn, NumPy, Pandas, Transformers, LangChain/LlamaIndex (RAG), Prompt Engineering
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230077B5.svg?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### ⚙️ Backend & Systems  
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+JWT, REST APIs
 
----
+### Vector DBs & Storage
+FAISS, ChromaDB, MySQL
 
-### 🗄️ Databases & Vector Stores  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF4B4B.svg?style=for-the-badge)
-
----
-
-### 🚀 Tools & Deployment  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-8a8108315)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubadeveloper@gmail.com)
+### Deployment & Tools
+Streamlit, Vercel, Netlify, AWS, Google Cloud, Git, Docker (exploring)
 
 ---
 
 ## 💼 Experience
+**Prompt Engineering Intern** — Future Interns (Remote)  
+*March 2026 – Present*  
+- Crafting, chaining, and optimizing prompts for LLMs to improve reasoning, creativity, output quality, and task performance  
+- Building AI-powered content pipelines (e.g., YouTube scripts, thumbnails via prompt engineering)  
+- Testing & evaluating prompt effectiveness for real-world applications
 
-### 🏢 Python Technology Intern – Deloitte
-- Engineered scalable data processing scripts in Python, reducing manual data entry time.
-- Collaborated with the engineering team to optimize backend APIs using Flask/FastAPI, ensuring seamless data flow between internal services.
-- Implemented automated testing suites to improve code reliability and catch bugs early in the development lifecycle.
+**Python Technology Intern** — Deloitte  
+- Built scalable Python data processing scripts; reduced manual effort  
+- Optimized Flask/FastAPI backend APIs for internal services  
+- Implemented automated testing to boost code reliability
 
-### AI & ML Intern – Edunet Foundation (AICTE x IBM)
-- Developed and deployed a supervised machine learning model for Disease Prediction using Scikit-Learn and IBM Cloud tools.
-- Fine-tuned model hyperparameters to achieve a 90% accuracy rate, outperforming the initial baseline model.
-- Processed and cleaned large-scale datasets using Pandas and NumPy, ensuring high-quality inputs for training pipelines.
+**AI & ML Intern** — Edunet Foundation (AICTE × IBM)  
+- Developed & deployed supervised ML disease prediction model (90% accuracy)  
+- Fine-tuned hyperparameters; cleaned large datasets with Pandas/NumPy  
+- Leveraged IBM Cloud tools for scalable ML pipelines
+
+---
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-8a8108315)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubadeveloper@gmail.com)  
+
+Open to collaborations, remote opportunities, or just geeking out over transformers & RAG!
 
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=dhrubasaha001&theme=radical&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha001&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha001&theme=radical&hide_border=false&layout=compact)
 
----
+Made with ❤️ in Kolkata
