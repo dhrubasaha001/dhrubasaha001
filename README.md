@@ -17,9 +17,11 @@ Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (
 ## 🔥 Featured Projects
 - **PDF RAG Chatbot** — Advanced RAG system with vector DBs (Chroma/FAISS), embeddings, hallucination reduction, and FastAPI backend for accurate document Q&A  
   [Repo] | [https://github.com/dhrubasaha001/PDG_RAG]
-- **CareerBot AI Pro (Portfolio & Resume Builder)** — A high-performance full-stack system using Python Flask and Groq Llama-3 70B. Generates ATS-optimized resumes in < 1.5s using the STAR method. Features Exponential Backoff logic for API resilience and real-time Markdown-to-PDF export and InBuilt ATS Checker..
   
- [Repo] | [https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER]
+- **CareerBot AI Pro (Portfolio & Resume Builder)** — A high-performance full-stack system using Python Flask and Groq Llama-3 70B. Generates ATS-optimized
+  resumes in < 1.5s using the STAR method. Features Exponential Backoff logic for API resilience and real-time Markdown-to-PDF export and InBuilt ATS Checker.
+  [Repo] | [https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER]
+  
 - **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, precaution recommendations
 
   [Repo] | [https://github.com/dhrubasaha001/Med-Assist-AI-Backend]
