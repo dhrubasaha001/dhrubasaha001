@@ -22,7 +22,7 @@
 - 🏥 **MedAssist AI** – AI-powered health assistant with symptom analysis, precaution recommendations, image input support, and voice interaction 
 - 🔐 **Sentinel AI** – AI-based phishing & URL safety detection system  
 
-👉 Built **Mutliple projects** in first year 
+👉 Built **Multiple projects** in first year 
 
 ---
 
