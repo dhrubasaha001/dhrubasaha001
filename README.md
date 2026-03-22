@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Dhruba Saha
-**AI/ML Engineer | LLM & RAG Specialist | 2nd-Year CS Student**  
+**AI/ML Engineer | LLM & RAG Specialist | 2nd-Year CS Student**
+
 Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and scalable backends. Passionate about transformers, fine-tuning, agents, and deploying intelligent applications that solve real problems.
 
 ---
@@ -9,127 +10,112 @@ Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (
 - 🚀 Shipped **20+ projects** (10+ deployed) as a 2nd-year student
 - 🏆 20+ hackathons | 3× finalist (incl. international) | 1 win
 - 📊 Kaggle: Active participant in ML competitions (best rank: top 500)
-- 🏢 3 internships: Deloitte, IBM-backed, and now Prompt Engineering (remote)
+- 🏢 3 internships: Deloitte, IBM-backed, and current Prompt Engineering (remote)
 - 🎯 Open to **remote AI/ML/LLM internships & entry-level roles** (international welcome!)
 
 ---
 
 ## 🔥 Featured Projects
 - **PDF RAG Chatbot** — Advanced RAG system with vector DBs (Chroma/FAISS), embeddings, hallucination reduction, and FastAPI backend for accurate document Q&A  
-  [Repo] | [https://github.com/dhrubasaha001/PDG_RAG]
-  
-- **CareerBot AI Pro (Portfolio & Resume Builder)** — A high-performance full-stack system using Python Flask and Groq Llama-3 70B. Generates ATS-optimized
-  resumes in < 1.5s using the STAR method. Features Exponential Backoff logic for API resilience and real-time Markdown-to-PDF export and InBuilt ATS Checker.<br>
-  [Repo] | [https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER]
-  
-- **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, precaution recommendations <br>
-  [Repo] | [https://github.com/dhrubasaha001/Med-Assist-AI-Backend]
-  
-- **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)<br>
-  [Repo] | [https://github.com/dhrubasaha001/Health-Shield-AI]
-  
-- **Sentinel AI** — AI-powered phishing/URL safety detector<br>
-  [Repo] | [https://github.com/dhrubasaha001/Sentinel-AI]
-  
-- **LLM Playground** — Tokenization, fine-tuning, text generation, and prompt experiments<br>
-  [Repo] | [https://github.com/dhrubasaha001/LLM-Generation-Playground]
-  
-- Built **10+ deployed apps** (Streamlit, Vercel, Hugging Face Spaces, FastAPI/Flask)
+  **[Repo](https://github.com/dhrubasaha001/PDG_RAG)**
 
-More on GitHub → Explore pinned repos!
+- **CareerBot AI Pro (Portfolio & Resume Builder)** — High-performance full-stack app using Python Flask + Groq Llama-3 70B. Generates ATS-optimized resumes in <1.5s using the STAR method. Includes exponential backoff for API resilience, real-time Markdown-to-PDF export, and built-in ATS checker.  
+  **[Repo](https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER)**
+
+- **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, and precaution recommendations  
+  **[Repo](https://github.com/dhrubasaha001/Med-Assist-AI-Backend)**
+
+- **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)  
+  **[Repo](https://github.com/dhrubasaha001/Health-Shield-AI)**
+
+- **Sentinel AI** — AI-powered phishing/URL safety detector  
+  **[Repo](https://github.com/dhrubasaha001/Sentinel-AI)**
+
+- **LLM Playground** — Experiments with tokenization, fine-tuning, text generation, and prompt engineering  
+  **[Repo](https://github.com/dhrubasaha001/LLM-Generation-Playground)**
+
+Built **10+ deployed apps** (Streamlit, Vercel, Hugging Face Spaces, FastAPI/Flask).  
+More → Explore pinned repos!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Main Programming Language (AI and ML Focused)
+### 💻 Main Programming Language (AI/ML Focused)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-### Familiar Languages:
+
+### Familiar Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
----
-
 ### 🤖 AI / ML / LLM
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge)
-
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%230077B5.svg?style=for-the-badge)
 
----
-
-### ⚙️ Backend & APIs  
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge)
 
----
-
-### 🗄️ Vector DBs & Storage  
+### 🗄️ Vector DBs & Storage
 ![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF4B4B.svg?style=for-the-badge)
-
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
 
 ### 🚀 Deployment & Tools
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 💼 Experience
+
 **Prompt Engineering Intern** — Future Interns (Remote)  
-*March 2026 – Present*  
-- Crafting, chaining, and optimizing prompts for LLMs to improve reasoning, creativity, output quality, and task performance  
+*March 2025 – Present*  
+- Crafting, chaining, and optimizing prompts for LLMs to boost reasoning, creativity, output quality, and task performance  
 - Building AI-powered content pipelines (e.g., YouTube scripts, thumbnails via prompt engineering)  
-- Testing & evaluating prompt effectiveness for real-world applications
+- Testing & evaluating prompt effectiveness for real-world applications  
 
 **Python Technology Intern** — Deloitte  
 - Built scalable Python data processing scripts; reduced manual effort  
 - Optimized Flask/FastAPI backend APIs for internal services  
-- Implemented automated testing to boost code reliability
+- Implemented automated testing to boost code reliability  
 
 **AI & ML Intern** — Edunet Foundation (AICTE × IBM)  
 - Developed & deployed supervised ML disease prediction model (90% accuracy)  
 - Fine-tuned hyperparameters; cleaned large datasets with Pandas/NumPy  
-- Leveraged IBM Cloud tools for scalable ML pipelines
+- Leveraged IBM Cloud tools for scalable ML pipelines  
 
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-8a8108315)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubadeveloper@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-8a8108315)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubadeveloper@gmail.com)
 
 Open to collaborations, remote opportunities, or just geeking out over transformers & RAG!
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha001&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha001&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha001&theme=radical&hide_border=false&layout=compact)
 
 Made with ❤️ in Kolkata
