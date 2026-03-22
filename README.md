@@ -92,8 +92,14 @@
 ## 💼 Experience
 
 ### 🏢 Python Technology Intern – Deloitte
+- Engineered scalable data processing scripts in Python, reducing manual data entry time.
+- Collaborated with the engineering team to optimize backend APIs using Flask/FastAPI, ensuring seamless data flow between internal services.
+- Implemented automated testing suites to improve code reliability and catch bugs early in the development lifecycle.
 
-### 🏢 AI & ML Intern – Edunet Foundation (AICTE x IBM) 
+### AI & ML Intern – Edunet Foundation (AICTE x IBM)
+- Developed and deployed a supervised machine learning model for Disease Prediction using Scikit-Learn and IBM Cloud tools.
+- Fine-tuned model hyperparameters to achieve a 90% accuracy rate, outperforming the initial baseline model.
+- Processed and cleaned large-scale datasets using Pandas and NumPy, ensuring high-quality inputs for training pipelines.
 
 ---
 
