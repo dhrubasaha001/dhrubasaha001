@@ -4,6 +4,8 @@
 
 🚀 Building real-world AI systems with LLMs, RAG, and scalable backend architectures
 
+⚙️ Interested in designing scalable AI systems, APIs, and end-to-end ML pipelines
+
 ---
 
 ## 💫 About Me
