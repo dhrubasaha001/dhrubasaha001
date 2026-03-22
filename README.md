@@ -51,8 +51,7 @@ More on GitHub → Explore pinned repos!
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%2300C7B7.svg?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge)
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%230077B5.svg?style=for-the-badge)
 
