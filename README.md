@@ -89,6 +89,15 @@
 
 ---
 
+## 💼 Experience
+
+### 🏢 Python Technology Intern – Deloitte
+...
+
+### 🏢 AI & ML Intern – Edunet Foundation (AICTE x IBM) 
+
+...
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
