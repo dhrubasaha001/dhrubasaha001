@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dhruba Saha
 
 💻 AI/ML Engineer | LLM & System Design Enthusiast
-
 🚀 Building real-world AI systems with LLMs, RAG, and scalable backend architectures
 
 ---
@@ -11,9 +10,7 @@
 🌱 Exploring AI, RAG systems, and real-world problem solving  
 🚀 Building intelligent applications that scale  
 🧠 Focused on growth, clarity, and consistency  
-
 🚀 Started with multi-domain development → now specializing in AI/ML and LLM-based systems  
-
 🎯 Currently focused on LLM/RAG systems and open to AI/ML internship opportunities  
 
 ---
