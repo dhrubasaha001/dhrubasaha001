@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Dhruba Saha
 
-💻 AI/ML Engineer | LLM & System Design Enthusiast  
+💻 AI/ML Engineer | LLM & System Design Enthusiast
+
+🚀 Building real-world AI systems with LLMs, RAG, and scalable backend architectures
 
 ---
 
@@ -16,14 +18,13 @@
 
 ---
 
-## 🚀 Featured Projects
+- 📄 **PDF RAG Chatbot** – Retrieval-Augmented Generation system using vector databases for document Q&A  
+- 🧠 **LLM Playground** – Demonstrates tokenization, training & text generation pipeline  
+- 📊 **HealthShield AI** – Supervised ML system for disease prediction
+- 🏥 **MedAssist AI** – AI-powered health assistant with symptom analysis, precaution recommendations, image input support, and voice interaction 
+- 🔐 **Sentinel AI** – AI-based phishing & URL safety detection system  
 
-- 📄 **PDF RAG Chatbot** – Retrieval-Augmented Generation system for document Q&A  
-- 🧠 **LLM Playground** – Tokenization, training & generation workflow  
-- 📊 **HealthShield AI** – ML-based disease prediction system  
-- 🔐 **Sentinel AI** – AI-powered URL safety detection  
-
-👉 Built **10+ deployed projects** in first year  
+👉 Built **Mutliple projects** in first year 
 
 ---
 
