@@ -1,7 +1,10 @@
 ## Hi there 👋
 # I-am-Dhruba-Saha
 # 💫 About Me:
-💻 Developer & Innovator<br><br>🌱 Continuously learning and exploring new technologies<br><br>🚀 Turning ideas into reality through code<br><br>🧠 Balancing knowledge with humility <br><br>🌐 Active GDG (Google Developer Groups) Member
+💻 AI/ML Engineer | LLM & System Design Enthusiast
+🌱 Exploring AI, RAG systems, and real-world problem solving  
+🚀 Building intelligent applications that scale  
+🧠 Focused on growth, clarity, and consistency  
 
 
 ## 🌐 Socials:
