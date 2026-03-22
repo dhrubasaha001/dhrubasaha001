@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I-am-Dhruba-Saha
+# I am Dhruba Saha
 # 💫 About Me:
 💻 AI/ML Engineer | LLM & System Design Enthusiast
 
