@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
-  <img src="https://pixabay.com/videos/computers-office-desk-windows-rain-150883"/>
+  <img src="https://pixabay.com/videos/computers-office-desk-windows-rain-150883/"/>
 </p>
 ---
 
