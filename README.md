@@ -8,7 +8,7 @@ Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (
 - 🌱 Deep into **LLMs, RAG pipelines, prompt engineering**, and scalable AI architectures
 - 🚀 Shipped **20+ projects** (10+ deployed) as a 2nd-year student
 - 🏆 20+ hackathons | 3× finalist (incl. international) | 1 win
-- 📈 Kaggle: ~200 avg rank across competitions
+- 📊 Kaggle: Active participant in ML competitions (best rank: top 500)
 - 🏢 3 internships: Deloitte, IBM-backed, and now Prompt Engineering (remote)
 - 🎯 Open to **remote AI/ML/LLM internships & entry-level roles** (international welcome!)
 
