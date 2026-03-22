@@ -57,16 +57,21 @@ More on GitHub → Explore pinned repos!
 
 ---
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & APIs  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge)
+
 ---
 
-### 🗄️ Vector DBs & Storage
+### 🗄️ Vector DBs & Storage  
 ![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF4B4B.svg?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
