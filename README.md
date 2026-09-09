@@ -1,121 +1,322 @@
 # 👋 Hi, I'm Dhruba Saha
-**AI/ML Engineer | LLM & RAG Specialist | 2nd-Year CS Student**
 
-Building production-ready AI systems with LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and scalable backends. Passionate about transformers, fine-tuning, agents, and deploying intelligent applications that solve real problems.
+**AI/ML Engineer | GenAI & AI Systems | RAG & Agentic AI**
+
+Building practical AI systems with **LLMs, RAG, Agentic AI, AI orchestration, MCP, and scalable backends**.
+
+I focus on designing AI systems that are **reliable, deployable, evaluable, privacy-aware, and optimized for real-world use cases.**
 
 ---
 
 ## 💫 About Me
-- 🌱 Deep into **LLMs, RAG pipelines, prompt engineering**, and scalable AI architectures
-- 🚀 Shipped **20+ projects** (10+ deployed) as a 2nd-year student
-- 🏆 20+ hackathons | 3× finalist (incl. international) | 1 win
-- 📊 Kaggle: Active participant in ML competitions (best rank: top 500)
-- 🏢 3 internships: Deloitte, IBM-backed, and current Prompt Engineering (remote)
-- 🎯 Open to **remote AI/ML/LLM internships & entry-level roles** (international welcome!)
+
+* 🧠 Focused on **LLMs, RAG, Agentic AI, AI Orchestration, MCP & AI System Architecture**
+* 🚀 Built **20+ AI/ML projects** with **10+ deployed applications**
+* ⚙️ Hands-on with **local LLMs, dynamic context, tool use, retrieval, evaluation & fault-tolerant AI workflows**
+* 🏆 **20+ Hackathons** | **3× Finalist** | **1× Winner**
+* 🌍 Including **international hackathon finalist** experience
+* 📊 **Kaggle Top 500**
+* 💼 Completed **5 internships** across AI/ML, GenAI, Python, Prompt Engineering & Data Analytics
+* 🎯 Interested in **GenAI / AI Systems Engineering** and building ambitious intelligent systems
 
 ---
 
-## 🔥 Featured Projects
-- **PDF RAG Chatbot** — Advanced RAG system with vector DBs (Chroma/FAISS), embeddings, hallucination reduction, and FastAPI backend for accurate document Q&A  
-  **[Repo](https://github.com/dhrubasaha001/PDG_RAG)**
+# 🔥 Featured Projects
 
-- **CareerBot AI Pro (Portfolio & Resume Builder)** — High-performance full-stack app using Python Flask + Groq Llama-3 70B. Generates ATS-optimized resumes in <1.5s using the STAR method. Includes exponential backoff for API resilience, real-time Markdown-to-PDF export, and built-in ATS checker.  
-  **[Repo](https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER)**
+## 🛡️ Sovereign AI Workbench
 
-- **MedAssist AI** — Multimodal health assistant: symptom analysis, disease prediction, image input, voice interaction, and precaution recommendations  
-  **[Repo](https://github.com/dhrubasaha001/Med-Assist-AI-Backend)**
+**Python · FastAPI · Streamlit · LangChain · ChromaDB · Ollama · Local LLMs · AI Orchestration**
 
-- **HealthShield AI** — Supervised ML model for disease prediction (90%+ accuracy via hyperparameter tuning)  
-  **[Repo](https://github.com/dhrubasaha001/Health-Shield-AI)**
+An enterprise-oriented **sovereign, on-premise Agentic AI platform** designed around privacy, local inference, intelligent orchestration, and controlled AI execution.
 
-- **Sentinel AI** — AI-powered phishing/URL safety detector  
-  **[Repo](https://github.com/dhrubasaha001/Sentinel-AI)**
+### Key Architecture
 
-- **LLM Playground** — Experiments with tokenization, fine-tuning, text generation, and prompt engineering  
-  **[Repo](https://github.com/dhrubasaha001/LLM-Generation-Playground)**
-
-Built **10+ deployed apps** (Streamlit, Vercel, Hugging Face Spaces, FastAPI/Flask).  
-More → Explore pinned repos!
+* 🧩 Custom multi-capability orchestration & routing
+* 📚 RAG with local embeddings & ChromaDB
+* 🤖 Autonomous agent modes
+* 🔧 Tool execution
+* 🧠 Dynamic context management
+* 📊 Confidence evaluation
+* 👤 Human-in-the-Loop workflows
+* 🔁 Retry & fault-tolerant architecture
+* 🔐 Privacy-focused on-premise execution
+* 📡 Real-time system logs
+* ⚙️ Local Ollama model management
+* 👥 Role-based portals
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 AXEL EVOLVE
 
-### 💻 Main Programming Language (AI/ML Focused)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**AI Agent Architecture · Task Decomposition · Skill Registry · Skill Acquisition · Evaluation · Refinement**
 
-### Familiar Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+An evolving AI agent architecture focused on enabling intelligent systems to:
 
-### 🤖 AI / ML / LLM
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%230077B5.svg?style=for-the-badge)
+```text
+Understand Task
+      ↓
+Decompose Task
+      ↓
+Detect Required Skills
+      ↓
+Acquire / Select Skills
+      ↓
+Execute
+      ↓
+Evaluate Result
+      ↓
+Refine
+```
+
+The goal is to move toward **adaptive AI systems capable of improving their capabilities and execution strategies over time.**
+
+---
+
+## 📚 PDF RAG Chatbot
+
+**FastAPI · ChromaDB · FAISS · Embeddings · Reranking**
+
+Advanced document question-answering system using Retrieval-Augmented Generation.
+
+### Features
+
+* 📄 Document ingestion
+* ✂️ Configurable chunking
+* 🧠 Embedding generation
+* 🔎 Vector retrieval
+* 🎯 Reranking
+* 🤖 LLM-based generation
+* ⚡ FastAPI backend
+
+[Repository](https://github.com/dhrubasaha001/PDG_RAG)
+
+---
+
+## 💼 CareerBot AI Pro
+
+**Flask · Groq · Llama-3 70B · Prompt Engineering**
+
+AI-powered portfolio and resume builder designed for ATS-focused job applications.
+
+### Features
+
+* 📄 AI Resume Generation
+* 🎯 ATS Optimization
+* ⭐ STAR-based achievement generation
+* ⚡ Fast LLM inference
+* 🔁 Exponential backoff & API resilience
+* 📝 Markdown → PDF
+* 🔍 Built-in ATS checker
+
+[Repository](https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER)
+
+---
+
+## 🩺 MedAssist AI
+
+Multimodal AI health assistant featuring:
+
+* 🧠 Symptom analysis
+* 🧬 Disease prediction
+* 🖼️ Image input
+* 🎙️ Voice interaction
+* 💡 Precaution recommendations
+
+[Repository](https://github.com/dhrubasaha001/Med-Assist-AI-Backend)
+
+---
+
+## 🛡️ Sentinel AI
+
+AI-powered **phishing and URL safety detection system**.
+
+[Repository](https://github.com/dhrubasaha001/Sentinel-AI)
+
+---
+
+## 🧪 LLM Playground
+
+Experiments with:
+
+* Tokenization
+* Text generation
+* Transformers
+* Prompt engineering
+* LLM workflows
+
+[Repository](https://github.com/dhrubasaha001/LLM-Generation-Playground)
+
+---
+
+# 🧠 AI Systems Focus
+
+```text
+              LLMs / Transformers
+                       ↓
+        Embeddings / RAG / Vector Search
+                       ↓
+             Reranking / Retrieval
+                       ↓
+            Agents / Tools / MCP
+                       ↓
+              AI Orchestration
+                       ↓
+          Dynamic Context Management
+                       ↓
+       Evaluation / Confidence / HITL
+                       ↓
+       FastAPI / Docker / Deployment
+                       ↓
+             Monitoring & Reliability
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### 🤖 AI / ML / GenAI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=PyTorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge\&logo=huggingface\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+### 🧩 Agentic AI
+
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0077B5?style=for-the-badge)
 
 ### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge)
 
-### 🗄️ Vector DBs & Storage
-![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF4B4B.svg?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+### 🗄️ Data & Vector Search
+
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge\&logo=sqlite)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 
 ### 🚀 Deployment & Tools
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git)
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-**Prompt Engineering Intern** — Future Interns (Remote)  
-*March 2025 – Present*  
-- Crafting, chaining, and optimizing prompts for LLMs to boost reasoning, creativity, output quality, and task performance  
-- Building AI-powered content pipelines (e.g., YouTube scripts, thumbnails via prompt engineering)  
-- Testing & evaluating prompt effectiveness for real-world applications  
+### Prompt Engineering Intern — Future Interns
 
-**Python Technology Intern** — Deloitte  
-- Built scalable Python data processing scripts; reduced manual effort  
-- Optimized Flask/FastAPI backend APIs for internal services  
-- Implemented automated testing to boost code reliability  
+**March 2026 – April 2026**
 
-**AI & ML Intern** — Edunet Foundation (AICTE × IBM)  
-- Developed & deployed supervised ML disease prediction model (90% accuracy)  
-- Fine-tuned hyperparameters; cleaned large datasets with Pandas/NumPy  
-- Leveraged IBM Cloud tools for scalable ML pipelines  
+Worked on prompt design, optimization, chaining, evaluation, and AI-powered content workflows.
+
+### AI & ML Intern — Suvidha Foundation
+
+**April 2026 – May 2026**
+
+Worked on machine learning workflows, data processing, and practical AI/ML applications.
+
+### Data Analyst Intern — Bluestock Fintech
+
+**June 2026 – August 2026 · Remote**
+
+Worked with data analysis, ETL, SQL database design, exploratory analysis, and financial analytics.
+
+### Python Technology Intern — Deloitte
+
+**September 2025 – October 2025**
+
+Worked with Python-based data processing, backend APIs, and software development workflows.
+
+### AI & ML Intern — Edunet Foundation
+
+**January 2026 – March 2026**
+
+Worked on supervised machine learning, data preprocessing, model development, and deployment.
 
 ---
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-8a8108315)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubadeveloper@gmail.com)
+# 🏆 Achievements
 
-Open to collaborations, remote opportunities, or just geeking out over transformers & RAG!
+* 🚀 **20+ Hackathons**
+* 🥇 **1× Hackathon Winner**
+* 🏅 **3× Finalist**
+* 🌍 **International Hackathon Finalist**
+* 📊 **Kaggle Top 500**
+* 🌐 **10+ Deployed Applications**
+* 💼 **5 Internships**
+* 🤖 Built multiple **LLM, RAG & Agentic AI systems**
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha001&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha001&theme=radical&hide_border=false&layout=compact)
+# 🎯 Current Focus
 
-Made with ❤️ in Kolkata
+```text
+GenAI
+  ↓
+Advanced RAG
+  ↓
+Agentic AI
+  ↓
+MCP & Tool-Using Systems
+  ↓
+AI Orchestration
+  ↓
+AI Evaluation & Reliability
+  ↓
+Scalable AI Infrastructure
+```
+
+Currently focused on becoming a stronger **AI Systems Engineer** by going beyond model usage and understanding how complete intelligent systems are architected, deployed, evaluated, and optimized.
+
+---
+
+# 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dhruba-saha-8a8108315)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dhrubadeveloper@gmail.com)
+
+Open to **collaborations, global opportunities, AI engineering roles, and ambitious AI system projects.** 🚀
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dhrubasaha001\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha001\&theme=radical\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha001\&theme=radical\&hide_border=false\&layout=compact)
+
+---
+
+### ⚡ Build. Break. Learn. Rebuild.
+
+**Building AI systems, not just AI demos.**
+
+Made with ❤️ by **Dhruba Saha**
