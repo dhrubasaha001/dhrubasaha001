@@ -230,11 +230,11 @@ Experiments with:
 
 # 💼 Experience
 
-### Prompt Engineering Intern — Future Interns
+### Data Analyst Intern — Bluestock Fintech
 
-**March 2026 – April 2026**
+**June 2026 – August 2026 · Remote**
 
-Worked on prompt design, optimization, chaining, evaluation, and AI-powered content workflows.
+Worked with data analysis, ETL, SQL database design, exploratory analysis, and financial analytics.
 
 ### AI & ML Intern — Suvidha Foundation
 
@@ -242,17 +242,11 @@ Worked on prompt design, optimization, chaining, evaluation, and AI-powered cont
 
 Worked on machine learning workflows, data processing, and practical AI/ML applications.
 
-### Data Analyst Intern — Bluestock Fintech
+### Prompt Engineering Intern — Future Interns
 
-**June 2026 – August 2026 · Remote**
+**March 2026 – April 2026**
 
-Worked with data analysis, ETL, SQL database design, exploratory analysis, and financial analytics.
-
-### Python Technology Intern — Deloitte
-
-**September 2025 – October 2025**
-
-Worked with Python-based data processing, backend APIs, and software development workflows.
+Worked on prompt design, optimization, chaining, evaluation, and AI-powered content workflows.
 
 ### AI & ML Intern — Edunet Foundation
 
@@ -260,6 +254,11 @@ Worked with Python-based data processing, backend APIs, and software development
 
 Worked on supervised machine learning, data preprocessing, model development, and deployment.
 
+### Python Technology Intern — Deloitte
+
+**September 2025 – October 2025**
+
+Worked with Python-based data processing, backend APIs, and software development workflows.
 ---
 
 # 🏆 Achievements
