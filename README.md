@@ -43,7 +43,7 @@ An enterprise-oriented **sovereign, on-premise Agentic AI platform** designed ar
 * 📡 Real-time system logs
 * ⚙️ Local Ollama model management
 * 👥 Role-based portals
-
+[Repository](https://github.com/dhrubasaha001/Soverign_AI_WorkBench)
 ---
 
 ## 🧬 AXEL EVOLVE
@@ -69,7 +69,7 @@ Refine
 ```
 
 The goal is to move toward **adaptive AI systems capable of improving their capabilities and execution strategies over time.**
-
+[Repository](https://github.com/dhrubasaha001/axel-evolve)
 ---
 
 ## 📚 PDF RAG Chatbot
