@@ -43,36 +43,43 @@ Building evaluation pipelines for LLM and RAG systems — faithfulness, answer r
 `Python · FastAPI · Streamlit · LangChain · ChromaDB · Ollama`
 
 An on-premise, privacy-first agentic AI platform for enterprise use. Includes custom multi-capability orchestration and routing, local RAG with ChromaDB, autonomous agent modes with tool execution, dynamic context management, confidence evaluation, human-in-the-loop workflows, and a retry/fault-tolerant execution layer — all running on local inference via Ollama.
+
 [Repository →](https://github.com/dhrubasaha001/Soverign_AI_WorkBench)
 
 ### AXEL EVOLVE
 `AI Agent Architecture · Task Decomposition · Skill Registry · Evaluation`
 
 An evolving agent architecture built around a closed loop: understand the task, decompose it, detect the skills required, acquire or select those skills, execute, evaluate the result, and refine. The goal is agents that improve their own capabilities and execution strategy over successive runs.
+
 [Repository →](https://github.com/dhrubasaha001/axel-evolve)
 
 ### PDF RAG Chatbot
 `FastAPI · ChromaDB · FAISS · Embeddings · Reranking`
 
 A document question-answering system built on retrieval-augmented generation — covering ingestion, configurable chunking, embedding generation, vector retrieval, reranking, and LLM-based answer generation behind a FastAPI backend.
+
 [Repository →](https://github.com/dhrubasaha001/PDG_RAG)
 
 ### CareerBot AI Pro
 `Flask · Groq · Llama-3 70B · Prompt Engineering`
 
 An AI-powered resume and portfolio builder aimed at ATS-optimized job applications, with STAR-formatted achievement generation, a built-in ATS checker, Markdown-to-PDF export, and resilient API calls via exponential backoff.
+
 [Repository →](https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER)
 
 ### MedAssist AI
 A multimodal health assistant combining symptom analysis, disease prediction, image input, and voice interaction to surface precaution recommendations.
+
 [Repository →](https://github.com/dhrubasaha001/Med-Assist-AI-Backend)
 
 ### Sentinel AI
 An AI-powered phishing and URL safety detection system.
+
 [Repository →](https://github.com/dhrubasaha001/Sentinel-AI)
 
 ### LLM Playground
 A research sandbox for tokenization, text generation, transformer internals, prompt engineering, and LLM workflow experimentation.
+
 [Repository →](https://github.com/dhrubasaha001/LLM-Generation-Playground)
 
 ---
