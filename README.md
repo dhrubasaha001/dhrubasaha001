@@ -4,7 +4,7 @@
 
 Building reliable, deployable AI systems — not just model demos. I focus on LLM integration, retrieval-augmented generation, agentic architectures, and AI orchestration, with an emphasis on reliability, evaluability, and real-world deployment constraints.
 
-[LinkedIn](https://linkedin.com/in/dhruba-saha-8a8108315) · [Email](mailto:dhrubadeveloper@gmail.com)
+[LinkedIn](https://linkedin.com/in/dhrubasaha-ai) · [Email](mailto:dhrubadeveloper@gmail.com)
 
 ---
 
