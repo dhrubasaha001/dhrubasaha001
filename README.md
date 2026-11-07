@@ -230,6 +230,10 @@ Experiments with:
 
 # 💼 Experience
 
+### AI Engineer — FlowTask
+
+**September 2026 – Present**
+
 ### Data Analyst Intern — Bluestock Fintech
 
 **June 2026 – August 2026 · Remote**
